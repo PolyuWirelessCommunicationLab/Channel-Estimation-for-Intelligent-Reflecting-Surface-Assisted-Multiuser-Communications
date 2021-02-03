@@ -3,7 +3,7 @@ This code is for paper: [Z. Wang, L. Liu, and S. Cui, "Channel estimation for in
 # Citation
 @article{liu2020IRSchannelestimation,<br> 
   title={Channel estimation for intelligent reflecting surface assisted multiuser communications: framework, algorithms, and analysis},<br> 
-  author={Zhaorui Wang, Liang Liu, and Shuguang Cui},<br> 
+  author={Zhaorui Wang and Liang Liu and Shuguang Cui},<br> 
   journal={IEEE Trans. Wireless Commun.},<br> 
   volume={19},<br> 
   number={10},<br> 
