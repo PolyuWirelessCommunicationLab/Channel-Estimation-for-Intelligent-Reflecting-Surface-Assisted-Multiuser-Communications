@@ -10,5 +10,5 @@ This code is for paper: [Z. Wang, L. Liu, and S. Cui, "Channel estimation for in
   pages={6607--6620},<br> 
   month={Oct.},<br>
   year={2020},<br> 
-  publisher={IEEE}<br> 
+  publisher={IEEE},<br> 
 }
