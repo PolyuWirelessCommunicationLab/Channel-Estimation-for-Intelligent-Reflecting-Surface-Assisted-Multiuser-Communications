@@ -14,3 +14,5 @@ In intelligent reflecting surface (IRS) assisted communication systems, the acqu
   year={2020},<br> 
   publisher={IEEE},<br> 
 }
+# Note
+The code is provided for the benefit of better understanding the results, and is not meant to be used in production.
